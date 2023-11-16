@@ -1,11 +1,3 @@
 {
-  "settingsInheritedFrom": "DimaMend/whitesource-config@main",
-  "scanSettings": {
-    "enableReachability": true
-  },
-  "checkRunSettings": {
-    "strictMode": "warning"
-  }
+  "settingsInheritedFrom": "amaybaum-dev/whitesource-config@main"
 }
-
-
